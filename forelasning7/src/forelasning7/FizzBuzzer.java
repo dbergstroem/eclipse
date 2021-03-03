@@ -21,7 +21,7 @@ public class FizzBuzzer {
 		
 		
 		
-		//return Integer.toString(input);
+		//no way! return Integer.toString(input);
 		
 	}
 
